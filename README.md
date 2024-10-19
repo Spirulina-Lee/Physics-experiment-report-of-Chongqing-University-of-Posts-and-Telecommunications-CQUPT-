@@ -42,21 +42,15 @@
 
 1. 克隆整个仓库到本地：
    ```bash
-   git clone <仓库的URL>
+   git clone https://github.com/Spirulina-Lee/Physics-experiment-report-of-Chongqing-University-of-Posts-and-Telecommunications-CQUPT-.git
    ```
 
-2. 替换 <仓库的URL> 为你的GitHub仓库地址，例如：
+2. 进入仓库目录：
 
     ```bash
-    git clone https://github.com/username/Physics-experiment-report.git
+    cd Physics-experiment-report-of-Chongqing-University-of-Posts-and-Telecommunications-CQUPT-
     ```
-
-3. 进入仓库目录：
-
-    ```bash
-    cd Physics-experiment-report
-    ```
-4. 找到你需要的表格文件（例如原始数据处理表文件夹内的应变片.xlsx），并使用本地文件管理器直接打开，或通过命令行打开：
+3. 找到你需要的表格文件（例如原始数据处理表文件夹内的应变片.xlsx），并使用本地文件管理器直接打开，或通过命令行打开：
 
     ```bash
     open 原始数据处理表/应变片.xlsx
